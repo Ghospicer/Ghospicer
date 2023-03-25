@@ -3,7 +3,7 @@
 
 - I’m currently working on **JAVA**
 
-- I’m currently learning **Data Science and Machine Learning.**
+- I’m currently learning **Data Science, Machine Learning and Unity.**
 
 - How to reach me **alperenali.tuncay@hotmail.com**
 
