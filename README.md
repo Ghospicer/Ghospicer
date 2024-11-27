@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Alperen Ali Tunçay</h1>
 <h3 align="center">A computer engineering student.</h3>
 
-- 🔭 I’m currently working on **JAVA**
+- 🔭 I’m currently working on **JAVA** and **Python**
 
 - I’m currently learning **Data Science and Machine Learning.**
 
